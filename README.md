@@ -3,7 +3,8 @@ Eliminates headphone jack hiss and distortion on MediaTek G99 devices (and likel
 
 ## Installation
 1. Root your device.
-2. Install MTKAnalogAudioFix from this repository.
-3. Reboot.
-4. ???
-5. Profit!
+2. Install MTKAnalogAudioFix.
+3. Install [tinymix](https://github.com/Dinodva/Tinymix-Binary-Installer-Magisk-Module).
+4. Reboot.
+5. ???
+6. Profit!
